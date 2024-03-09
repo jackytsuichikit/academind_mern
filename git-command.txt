@@ -1,0 +1,4 @@
+$ git status # output (display) current status
+$ git add . # add new & modified file in current directory (& below)
+$ git commit -m "completed video #??" # save changes to local repo
+$ git push -u origin main # push "local commit" to https://github.com/jackytsuichikit/acadmind_mern.git
